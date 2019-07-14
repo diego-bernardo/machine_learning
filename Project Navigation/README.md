@@ -4,7 +4,7 @@
 
 # Project 1: Navigation
 
-See the final on Youtube. [clique here](https://www.youtube.com/watch?v=QvQ8geBBqcg)
+See the final result on Youtube. [clique here](https://www.youtube.com/watch?v=QvQ8geBBqcg)
 
 ### Introduction
 
