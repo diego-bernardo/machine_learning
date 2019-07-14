@@ -4,6 +4,8 @@
 
 # Project 1: Navigation
 
+See the final on Youtube. [clique here](https://www.youtube.com/watch?v=QvQ8geBBqcg)
+
 ### Introduction
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
